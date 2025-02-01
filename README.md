@@ -20,7 +20,7 @@
 3. Build and Run the app :
    - For the first time setup and run: docker compose up --build
    - For subsequent runs: docker compose up
-   - In case faced with error, run docker login -u <username> -p <password>
+   - In case faced with error, run docker login -u username -p password
   
 4.Open the app in your browser at `http://localhost:3000`
 5. To stop the application:  docker compose down
